@@ -7,11 +7,12 @@
 html, body{
     height: 100%;
     width: 100%;
+    background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%); 
 }
 #main{
     height: 100%;
     width: 100%;
-    background-color: #fff;   
+    /* background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%);  */
 }
 #nav{
     height: 100px;
